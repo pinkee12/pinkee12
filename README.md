@@ -9,9 +9,12 @@
 
 - 📫 How to reach me **akpinkymaurya@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/15egKy7Wy4xQUjMoBpLTt-4o4O_xqFVx5/view?usp=drive_link](https://drive.google.com/file/d/15egKy7Wy4xQUjMoBpLTt-4o4O_xqFVx5/view?usp=drive_link)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/km-pinkee-maurya-164900270/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/km-pinkee-maurya-164900270/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/profile/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,3 +23,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pinkee12&show_icons=true&locale=en&layout=compact" alt="pinkee12" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pinkee12&show_icons=true&locale=en" alt="pinkee12" /></p>
+
