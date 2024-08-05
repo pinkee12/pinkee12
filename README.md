@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Km.Pinkee Maurya</h1>
-<h3 align="center">A passionate frontend developer from India
-Proficient in HTML, CSS, and JavaScript and React with a strong command of Git and DOM manipulation. Adept at Python and Advanced Data Structures.</h3>
+<h4 align="center">A passionate frontend developer from India
+Proficient in HTML, CSS, and JavaScript and React with a strong command of Git and DOM manipulation. Adept at Python and Advanced Data Structures.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinkee12&label=Profile%20views&color=0e75b6&style=flat" alt="pinkee12" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pinkee12" alt="pinkee12" /></a> </p>
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
+- 💬 Ask me about **HTML, CSS, JavaScript, React,Python ,**
+- Hobbies:Coding,Learning new things,problem solving,communication.
 
 - 📫 How to reach me **akpinkymaurya@gmail.com**
 
