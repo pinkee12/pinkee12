@@ -10,7 +10,7 @@ Proficient in HTML, CSS, and JavaScript and React with a strong command of Git a
 
 - 📫 How to reach me **akpinkymaurya@gmail.com**
 
-- 📄 Know about my experiences ["https://resume-builder-test-new.masaischool.com/resume/public?resumeId=66aa537c6e6b499ee34975d8"]
+- 📄 Know about my experiences ["https://drive.google.com/file/d/1pWZyzDPPc259zATBySRMwMKNy3Fy9TE2/view?usp=sharing"]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
