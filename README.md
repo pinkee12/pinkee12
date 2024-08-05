@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Km.Pinkee Maurya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India
+Proficient in HTML, CSS, and JavaScript and React with a strong command of Git and DOM manipulation. Adept at Python and Advanced Data Structures.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinkee12&label=Profile%20views&color=0e75b6&style=flat" alt="pinkee12" /> </p>
 
